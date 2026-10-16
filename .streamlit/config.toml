@@ -1,0 +1,15 @@
+[theme]
+base = "light"
+primaryColor = "#236B68"
+backgroundColor = "#F7F8F6"
+secondaryBackgroundColor = "#EEF2F0"
+textColor = "#182828"
+linkColor = "#236B68"
+borderColor = "#DCE5E1"
+showWidgetBorder = true
+baseRadius = "large"
+buttonRadius = "large"
+font = "sans serif"
+
+[server]
+headless = true
